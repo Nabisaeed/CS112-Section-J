@@ -15,6 +15,12 @@ int main() {
     // Initializing a variable of type c2 (color)
     c2 c1 = green;
 
+    int sum;
+    sum=(red + blue + green + yellow)* (2);
+
+    cout<<sum<<endl;
+
+
     // Switch statement to check the value of c1
     switch (c1) {
         case red:
