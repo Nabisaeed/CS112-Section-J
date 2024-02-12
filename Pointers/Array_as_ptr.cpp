@@ -11,7 +11,7 @@ int main()
 
     int * first=arr;  
 
-    cout<<*first+2<<endl;  // Address of the 3rd element will be printed 
+    cout<<*first+2<<endl;  // 1st element will be printed after adding 2.  
     
      return 0;
     
