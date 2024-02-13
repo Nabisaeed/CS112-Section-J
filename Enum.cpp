@@ -17,7 +17,7 @@ int main() {
 
     int sum;
     sum=(red + blue + green + yellow)* (2);
-
+ // The preceding statement indicates that arithmetic operations are permitted on elements within the enumerated type. 
     cout<<sum<<endl;
 
 

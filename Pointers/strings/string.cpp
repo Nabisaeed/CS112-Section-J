@@ -5,16 +5,18 @@ using namespace std;
     
 int main()
 {
-    char name[]="Hamid";
+    char name[20];
 
-    int i=0;
-while (name[i]!='\0'){
+    cin.getline(name, sizeof(name));
 
-    cout<<name[i];
+//     int i=0;
+// while (name[i]!='\0'){
 
-    i++;
-}
-cout<<endl;
+//     cout<<name[i];
+
+//     i++;
+// }
+cout<<name<<endl;
 
      return 0;
     
