@@ -23,7 +23,7 @@ int main() {
     // Creating an object of class 'student' named 's1'
     student s1;
 
-    cout << "Helllllll" << endl;
+    cout << "Helllllllooo" << endl;
 
     return 0;
 }
