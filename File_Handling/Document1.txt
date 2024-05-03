@@ -1,0 +1,3 @@
+The name of employee is : Ijaz
+The age of employee is : 23
+The salary of employee is : 150.5
